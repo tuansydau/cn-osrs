@@ -1,0 +1,18 @@
+# *.vscode
+# !Assets/Scripts/*
+# Assets/
+# Packages/
+# Idle clicker.sln
+# ProjectSettings/
+# Assembly-CSharp.csproj
+# Temp/
+# Library/
+# UserSettings/
+# Logs/
+
+/*
+!/Assets/
+/Assets/*
+/Assets/Scripts/*.meta
+!/Assets/Scripts/
+!.gitignore
